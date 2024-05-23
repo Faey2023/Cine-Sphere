@@ -88,9 +88,7 @@ const Movie = () => {
                 <h1 className="text-xl text-[#111111] text-center font-bold hover:text-[#333333]">
                   {movie?.title}
                 </h1>
-                <p>
-                  Genres: {movie.genre_ids.map((id) => genres[id]).join(", ")}
-                </p>
+                <p>{movie.genre_ids.map((id) => genres[id]).join(", ")}</p>
               </Link>
             </SwiperSlide>
           ))}

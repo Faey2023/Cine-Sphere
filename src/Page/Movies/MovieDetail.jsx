@@ -1,10 +1,16 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { FaRegHeart } from "react-icons/fa";
+import { FaHeart } from "react-icons/fa6";
+import { AuthContext } from "../../Provider/AuthProvider";
+import toast from "react-hot-toast";
+import AddReview from "../../components/Review/AddReview";
 
 const MovieDetail = () => {
   const [movie, setMovie] = useState([]);
   const { id } = useParams();
+  const { user } = useContext(AuthContext);
+  const [addFav, setAddFav] = useState([]);
 
   useEffect(() => {
     fetch(
@@ -16,9 +22,6 @@ const MovieDetail = () => {
 
   const {
     backdrop_path,
-    genre_ids,
-    original_language,
-    original_title,
     overview,
     popularity,
     poster_path,
@@ -26,6 +29,27 @@ const MovieDetail = () => {
     title,
     vote_average,
   } = movie || {};
+
+  const handleAddFav = () => {
+    if (!user) {
+      toast.error("You need to be logged in to add favorites");
+      return;
+    }
+
+    const storedFavorites = JSON.parse(localStorage.getItem(user.uid)) || [];
+    let updatedFavorites;
+
+    if (addFav) {
+      updatedFavorites = storedFavorites.filter((fav) => fav.id !== movie.id);
+      toast.success("Removed from favorites");
+    } else {
+      updatedFavorites = [...storedFavorites, movie];
+      toast.success("Added to favorites");
+    }
+
+    localStorage.setItem(user.uid, JSON.stringify(updatedFavorites));
+    setAddFav(!addFav);
+  };
 
   return (
     <>
@@ -52,6 +76,27 @@ const MovieDetail = () => {
             </div>
           </div>
         </div>
+      </div>
+      <div className="max-w-screen-xl mx-auto my-10 flex flex-col md:flex-row gap-10">
+        <div className="relative w-1/3">
+          <img
+            src={`https://image.tmdb.org/t/p/w500/${poster_path}`}
+            alt={`image of ${title}`}
+            className=" w-80 h-full"
+          />
+          {addFav ? (
+            <FaHeart
+              className="absolute top-3 left-3 text-red-700 w-7 h-7 cursor-pointer"
+              onClick={handleAddFav}
+            />
+          ) : (
+            <FaRegHeart
+              className="absolute top-3 left-3 text-red-700 w-7 h-7 cursor-pointer"
+              onClick={handleAddFav}
+            />
+          )}
+        </div>
+        <AddReview />
       </div>
     </>
   );
