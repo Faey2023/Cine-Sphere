@@ -5,6 +5,7 @@ import MainPage from "./Layout/MainPage";
 import Home from "./Page/Home/Home";
 import AllMovie from "./Page/Movies/AllMovie";
 import MovieDetail from "./Page/Movies/MovieDetail";
+import AuthProvider from "./Provider/AuthProvider";
 
 const router = createBrowserRouter([
   {
@@ -28,5 +29,7 @@ const router = createBrowserRouter([
 ]);
 
 createRoot(document.getElementById("root")).render(
-  <RouterProvider router={router} />
+  <AuthProvider>
+    <RouterProvider router={router}></RouterProvider>
+  </AuthProvider>
 );
