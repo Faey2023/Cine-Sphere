@@ -60,49 +60,50 @@ const Movie = () => {
 
   return (
     <div className=" md:px-32">
-      <Link to="/">
-        <div className="my-5 space-y-5">
-          <Swiper
-            modules={[Autoplay]}
-            autoplay={{
-              delay: 2500,
-              disableOnInteraction: false,
-            }}
-            loop={true}
-            slidesPerView={slidesPerView}
-            pagination={{
-              clickable: true,
-            }}
-            className="mySwiper"
+      <div className="my-5 space-y-5">
+        <Swiper
+          modules={[Autoplay]}
+          autoplay={{
+            delay: 3000,
+            disableOnInteraction: false,
+          }}
+          loop={true}
+          slidesPerView={slidesPerView}
+          pagination={{
+            clickable: true,
+          }}
+          className="mySwiper"
+        >
+          {movies.slice(0, 10).map((movie) => (
+            <SwiperSlide key={movie?.id}>
+              <Link
+                to={`/movie/${movie.id}`}
+                className="space-y-2 hover:cursor-pointer"
+              >
+                <img
+                  src={`https://image.tmdb.org/t/p/w500/${movie?.backdrop_path}`}
+                  alt={`image of ${movie?.title}`}
+                  className=" w-60 h-80"
+                />
+                <h1 className="text-xl text-[#111111] text-center font-bold hover:text-[#333333]">
+                  {movie?.title}
+                </h1>
+                <p>
+                  Genres: {movie.genre_ids.map((id) => genres[id]).join(", ")}
+                </p>
+              </Link>
+            </SwiperSlide>
+          ))}
+        </Swiper>
+        <div className="flex justify-center items-center">
+          <Link
+            to="/allMovie"
+            className="capitalize bg-gradient-to-r from-[#06286e] to-[#800030] text-white font-bold p-2 rounded-lg"
           >
-            {movies.slice(0, 10).map((movie) => (
-              <SwiperSlide key={movie?.id}>
-                <div className="space-y-2 hover:cursor-pointer">
-                  <img
-                    src={`https://image.tmdb.org/t/p/w500/${movie?.backdrop_path}`}
-                    alt={`image of ${movie?.title}`}
-                    className=" w-60 h-80"
-                  />
-                  <h1 className="text-xl text-[#111111] text-center font-bold hover:text-[#333333]">
-                    {movie?.title}
-                  </h1>
-                  <p>
-                    Genres: {movie.genre_ids.map((id) => genres[id]).join(", ")}
-                  </p>
-                </div>
-              </SwiperSlide>
-            ))}
-          </Swiper>
-          <div className="flex justify-center items-center">
-            <Link
-              to="/allMovie"
-              className="capitalize bg-gradient-to-r from-[#06286e] to-[#800030] text-white font-bold p-2 rounded-lg"
-            >
-              explore more movies
-            </Link>
-          </div>
+            explore more movies
+          </Link>
         </div>
-      </Link>
+      </div>
     </div>
   );
 };
