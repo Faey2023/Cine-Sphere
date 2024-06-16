@@ -4,6 +4,7 @@ import "./index.css";
 import MainPage from "./Layout/MainPage";
 import Home from "./Page/Home/Home";
 import AllMovie from "./Page/Movies/AllMovie";
+import MovieDetail from "./Page/Movies/MovieDetail";
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
       {
         path: "/allMovie",
         element: <AllMovie />,
+      },
+      {
+        path: "/movie/:id",
+        element: <MovieDetail />,
       },
     ],
   },

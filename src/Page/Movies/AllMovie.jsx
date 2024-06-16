@@ -71,7 +71,7 @@ const AllMovie = () => {
         {movies.map((movie) => (
           <Link
             key={movie?.id}
-            to="/"
+            to={`/movie/${movie.id}`}
             className="space-y-2 hover:cursor-pointer"
           >
             <img
