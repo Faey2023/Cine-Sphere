@@ -32,7 +32,8 @@ const MovieDetail = () => {
               />
             </div>
             <div className="w-3/4 flex flex-col justify-center space-y-5">
-              <h1 className=" text-7xl font-bold">{movie.title}</h1>
+              <p className="font-bold">{movie.release_date}</p>
+              <h1 className="text-7xl font-bold">{movie.title}</h1>
               <p>{movie.overview}</p>
             </div>
           </div>
