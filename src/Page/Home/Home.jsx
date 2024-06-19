@@ -1,9 +1,11 @@
 import Banner from "./Banner/Banner";
+import Latest from "./Latest/Latest";
 
 const Home = () => {
   return (
-    <div>
+    <div className="my-5 space-y-5">
       <Banner />
+      <Latest />
     </div>
   );
 };

@@ -1,0 +1,1652 @@
+[
+  {
+    "movieTitle": "Hanu Man",
+    "imdbMovieId": "tt15433956",
+    "movieLanguages": [
+      "Hindi",
+      "Malayalam",
+      "Kannada",
+      "Tamil",
+      "English",
+      "Japanese",
+      "Chinese",
+      "Spanish",
+      "Korean",
+      "Telugu"
+    ],
+    "movieCountries": [
+      "Australia",
+      "Canada",
+      "Germany",
+      "France",
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Norway",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYWUwMGFmODMtYmFhNy00YTJlLWFiZDMtZDMwM2Q3NGZkNTgxXkEyXkFqcGdeQXVyMTU4Mzg1OTU2._V1_QL75_UY281_CR4,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Adventure", "Fantasy"]
+  },
+
+  {
+    "movieTitle": "Spark: L.I.F.E.",
+    "imdbMovieId": "tt28526239",
+    "movieLanguages": [
+      "Malayalam",
+      "Kannada",
+      "Hindi",
+      "Telugu",
+      "Tamil",
+      "English"
+    ],
+    "movieCountries": ["India", "United States"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMjRmNjBkODctY2IzNC00NTE1LTk1NzItZTFlZDVkMDkwMTU2XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UY281_CR77,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Romance", "Thriller"]
+  },
+  {
+    "movieTitle": "800",
+    "imdbMovieId": "tt27539086",
+    "movieLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi",
+      "English",
+      "Sinhala",
+      "Kannada",
+      "Bengali",
+      "Malayalam"
+    ],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "United Kingdom",
+      "India",
+      "Kuwait",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BM2UwMjRmNDEtODkxMi00ODg3LTkxODQtZDJkYTNkMGQ5N2Y1XkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_QL75_UY281_CR3,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Biography", "Sport"]
+  },
+  {
+    "movieTitle": "Love-All",
+    "imdbMovieId": "tt9511468",
+    "movieLanguages": [
+      "Hindi",
+      "Malayalam",
+      "Kannada",
+      "Telugu",
+      "Tamil",
+      "English",
+      "Oriya",
+      "Bengali",
+      "Assamese"
+    ],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTUzZGNhMzgtMDBkOC00MjdhLWI1YjAtY2E2MTYzMTQzYTE5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Sport"]
+  },
+  {
+    "movieTitle": "Kushi",
+    "imdbMovieId": "tt15380630",
+    "movieLanguages": [
+      "Tamil",
+      "Kannada",
+      "Malayalam",
+      "Telugu",
+      "English",
+      "Kashmiri",
+      "Hindi",
+      "Urdu"
+    ],
+    "movieCountries": [
+      "United Arab Emirates",
+      "United Kingdom",
+      "Australia",
+      "Canada",
+      "France",
+      "Ireland",
+      "India",
+      "Kuwait",
+      "Singapore",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNmU2Nzc2ZmItMTc5ZS00ZTE5LWEyOTMtMzIwYjBkNTI3Mjg4XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UY281_CR19,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "movieTitle": "The Vaccine War",
+    "imdbMovieId": "tt23554840",
+    "movieLanguages": [
+      "Hindi",
+      "Punjabi",
+      "Bhojpuri",
+      "Telugu",
+      "English",
+      "Gujarati",
+      "Tamil",
+      "Bengali",
+      "Kannada",
+      "Malayalam",
+      "Marathi"
+    ],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Australia",
+      "Germany",
+      "Finland",
+      "France",
+      "United Kingdom",
+      "India",
+      "Singapore",
+      "United States",
+      "Ireland"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZWJlZGMzODctMjRiNC00MmY5LTlkNGQtMDQ2ZTRmMmYzNThiXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama", "Thriller"]
+  },
+  {
+    "movieTitle": "Dhoomam",
+    "imdbMovieId": "tt22436062",
+    "movieLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Kannada",
+      "Tamil",
+      "Hindi",
+      "English"
+    ],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "United States",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMDA0NTM3ZjktN2FkNi00ZDkyLTk3MWQtOTY4NWNlMWJjYTljXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "movieTitle": "Witness",
+    "imdbMovieId": "tt23897366",
+    "movieLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Hindi",
+      "Kannada",
+      "Tamil",
+      "English"
+    ],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYzVmMGNhNzAtMDZkMy00ZDRjLWE1OTItNzViMWZmOWNjMjI3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY281_CR17,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+
+  {
+    "movieTitle": "RRR",
+    "imdbMovieId": "tt8178634",
+    "movieLanguages": [
+      "Hindi",
+      "Malayalam",
+      "Portuguese",
+      "Tamil",
+      "Kannada",
+      "Korean",
+      "Turkish",
+      "Spanish",
+      "Telugu",
+      "English"
+    ],
+    "movieCountries": [
+      "Ireland",
+      "Israel",
+      "Mexico",
+      "United Arab Emirates",
+      "Australia",
+      "Canada",
+      "Germany",
+      "Egypt",
+      "Finland",
+      "France",
+      "United Kingdom",
+      "Indonesia",
+      "India",
+      "Netherlands",
+      "Sweden",
+      "Singapore",
+      "Thailand",
+      "United States",
+      "South Africa",
+      "Portugal",
+      "Japan"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama"]
+  },
+  {
+    "movieTitle": "Caleb",
+    "imdbMovieId": "tt8074128",
+    "movieLanguages": [
+      "Italian",
+      "Kannada",
+      "Malayalam",
+      "Hindi",
+      "Telugu",
+      "Tamil",
+      "English"
+    ],
+    "movieCountries": ["Italy", "India", "Canada", "United States"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNjQ1ZDliZjEtOTllMS00NjJmLTgyODMtYzUyZDVkMzM5ODE2XkEyXkFqcGdeQXVyMjM4MDgxMzQ@._V1_QL75_UY281_CR7,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Horror", "Mystery", "Thriller"]
+  },
+  {
+    "movieTitle": "The Jungle Book",
+    "imdbMovieId": "tt3040964",
+    "movieLanguages": [
+      "English",
+      "Russian",
+      "Hindi",
+      "Bengali",
+      "Kannada",
+      "Telugu",
+      "Tamil",
+      "Assamese",
+      "Urdu",
+      "Oriya",
+      "Punjabi",
+      "Malayalam",
+      "Marathi",
+      "Rajasthani",
+      "Haryanvi",
+      "Nepali",
+      "Swahili"
+    ],
+    "movieCountries": [
+      "Argentina",
+      "Australia",
+      "Azerbaijan",
+      "Bolivia",
+      "Belarus",
+      "Chile",
+      "Colombia",
+      "Kazakhstan",
+      "Malaysia",
+      "Peru",
+      "Philippines",
+      "Russia",
+      "Singapore",
+      "Ukraine",
+      "Uruguay",
+      "Venezuela",
+      "Ecuador",
+      "Indonesia",
+      "India",
+      "Mexico",
+      "Belgium",
+      "Egypt",
+      "Finland",
+      "France",
+      "Cambodia",
+      "Luxembourg",
+      "Sweden",
+      "Thailand",
+      "Albania",
+      "Austria",
+      "Brazil",
+      "Germany",
+      "Denmark",
+      "Croatia",
+      "Israel",
+      "Italy",
+      "Kuwait",
+      "Lebanon",
+      "North Macedonia",
+      "Netherlands",
+      "Oman",
+      "Portugal",
+      "Serbia",
+      "Slovakia",
+      "Bulgaria",
+      "Canada",
+      "China",
+      "Estonia",
+      "Spain",
+      "United Kingdom",
+      "Ireland"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Animation", "Action", "Adventure"]
+  },
+  {
+    "movieTitle": "Swami Ayyappan",
+    "imdbMovieId": "tt2335908",
+    "movieLanguages": [
+      "Malayalam",
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Kannada"
+    ],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTA3YTgwMDItZDBlYi00MDJlLWI2OWItY2JlMzA5ODI2OTc2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Animation", "Action", "Adventure"]
+  },
+  {
+    "movieTitle": "Malaikottai Vaaliban",
+    "imdbMovieId": "tt23023596",
+    "movieLanguages": ["Tamil", "Telugu", "Hindi", "Kannada", "Malayalam"],
+    "movieCountries": ["France", "France", "Ireland", "India", "United States"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTRkOTlmNjQtNTdlZS00Mjc2LTg4NjItOTVhN2NhZTk2NmQ1XkEyXkFqcGdeQXVyNTI0NzYwMTI@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama", "Fantasy"]
+  },
+  {
+    "movieTitle": "Bhai - Sleeper Cells",
+    "imdbMovieId": "tt14111672",
+    "movieLanguages": ["Hindi", "Malayalam", "Tamil", "Telugu", "Kannada"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMmNkMzVmNDktZmJiOC00Mjk2LWIzNDEtNjc3MTJlMDAxNjM5XkEyXkFqcGdeQXVyODA4MzQ2NDk@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Thriller"]
+  },
+  {
+    "movieTitle": "Ayalaan",
+    "imdbMovieId": "tt7892066",
+    "movieLanguages": ["Tamil", "Kannada", "Telugu", "Malayalam", "Hindi"],
+    "movieCountries": [
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Norway",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMzYxZWEyOGMtZGY0Ny00ZjFmLWIxNGMtNDY5NGQyMzdkMzM5XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieTitle": "Saindhav",
+    "imdbMovieId": "tt27118258",
+    "movieLanguages": ["Tamil", "Malayalam", "Kannada", "Hindi", "Telugu"],
+    "movieCountries": ["Ireland", "United States", "France", "India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNjBhMzNjOTMtMDRhMi00MDEwLWFiYmMtZjdlMzNkNDE0ZGQ2XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UY281_CR6,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Neelakanta",
+    "imdbMovieId": "tt27142469",
+    "movieLanguages": ["Tamil", "Malayalam", "Kannada", "Telugu", "Hindi"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTk3MjIxMmQtZDVjZi00NTNlLThjYTQtNzlkNjNhMjZiZDIwXkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_QL75_UY281_CR11,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action"]
+  },
+  {
+    "movieTitle": "On the Road",
+    "imdbMovieId": "tt29542970",
+    "movieLanguages": ["Malayalam", "Kannada", "Telugu", "Tamil", "Hindi"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMDM2MzVhZTgtYjZkNC00M2FiLWJkZTgtZjNhYjNjMDE4MTQ1XkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_QL75_UY281_CR7,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Adventure", "Drama", "Thriller"]
+  },
+  {
+    "movieTitle": "Dry Day",
+    "imdbMovieId": "tt28024755",
+    "movieLanguages": ["Kannada", "Telugu", "Tamil", "Malayalam", "Hindi"],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZjVjMzkyOWEtZmQ3Zi00ZjE5LWEzZTUtODc4ZjdmOTI1Njg1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Comedy"]
+  },
+  {
+    "movieTitle": "Salaar",
+    "imdbMovieId": "tt13927994",
+    "movieLanguages": ["Hindi", "Malayalam", "Kannada", "Tamil", "Telugu"],
+    "movieCountries": [
+      "United States",
+      "Australia",
+      "Canada",
+      "Germany",
+      "Finland",
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Kuwait",
+      "Norway"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMmU4ZTM0MTctZTQ3Ny00YjZmLWFhNzEtOGYzMDk0ZjcyNmYzXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Fight Club",
+    "imdbMovieId": "tt15561202",
+    "movieLanguages": ["Tamil", "Hindi", "Kannada", "Telugu", "Malayalam"],
+    "movieCountries": ["France", "India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMGFlNWM0NWYtMWI3OS00OTMyLTg0YWYtNjhlNjRiYWUyZjRlXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX190_CR0,9,190,281_.jpg"
+    ],
+    "movieGenres": ["Action"]
+  },
+  {
+    "movieTitle": "Neru",
+    "imdbMovieId": "tt28358950",
+    "movieLanguages": ["Malayalam", "Hindi", "Tamil", "Telugu", "Kannada"],
+    "movieCountries": [
+      "Canada",
+      "United Kingdom",
+      "India",
+      "United States",
+      "Austria",
+      "Ireland",
+      "France"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTNjODdkNzUtZWEzOC00MWJjLWJmYzMtYjM3NjQyM2M4NzI5XkEyXkFqcGdeQXVyNTI0NzYwMTI@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "Mast Mein Rehne Ka",
+    "imdbMovieId": "tt29613587",
+    "movieLanguages": ["Hindi", "Malayalam", "Telugu", "Kannada", "Tamil"],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZDhjYmUzZGEtOWIyYi00ZDgzLWEwNmQtZGI4MjdhMDg1YTQ4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY281_CR17,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "Curry & Cyanide: The Jolly Joseph Case",
+    "imdbMovieId": "tt30177031",
+    "movieLanguages": [
+      "Malayalam",
+      "Hindi",
+      "English",
+      "Tamil",
+      "Telugu",
+      "Kannada"
+    ],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYjEyNWY5OTYtZjY4Ny00N2MwLTljOTItMzU4YzIyMWViNDgyXkEyXkFqcGdeQXVyMTczODE3MjQ4._V1_QL75_UX190_CR0,28,190,281_.jpg"
+    ],
+    "movieGenres": ["Documentary", "Crime"]
+  },
+  {
+    "movieTitle": "Hi Nanna",
+    "imdbMovieId": "tt25433734",
+    "movieLanguages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"],
+    "movieCountries": [
+      "United States",
+      "Germany",
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMjZkNTdhOTMtYzg0Yy00YjA4LTljOTQtZWRkNTZkMTY3Y2Y3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama", "Family", "Romance"]
+  },
+  {
+    "movieTitle": "Mangalavaram",
+    "imdbMovieId": "tt26763310",
+    "movieLanguages": ["Telugu", "Malayalam", "Kannada", "Tamil", "Hindi"],
+    "movieCountries": [
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZjk4OGMwMDUtZWVmZS00OGU4LWFjNTEtNGQyMzcxYWQyM2ExXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UY281_CR17,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Horror", "Thriller"]
+  },
+  {
+    "movieTitle": "Falimy",
+    "imdbMovieId": "tt11410312",
+    "movieLanguages": ["Malayalam", "Tamil", "Kannada", "Hindi", "Telugu"],
+    "movieCountries": [
+      "United Kingdom",
+      "India",
+      "Kuwait",
+      "Ireland",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZjgyMzRiNjYtZTg1Ny00NmVkLWI5NTEtYzFiMmYwYWU3ZDYxXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "Sesham Mikeil Fathima",
+    "imdbMovieId": "tt22036880",
+    "movieLanguages": ["Malayalam", "Hindi", "Telugu", "Tamil", "Kannada"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Bahrain",
+      "United Kingdom",
+      "India",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "Ireland"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYjM0MjY2MTMtMmIzOC00Mjg3LTg2ZmUtMmZmNjI0NDFiMjMwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Comedy"]
+  },
+  {
+    "movieTitle": "Jigarthanda Double X",
+    "imdbMovieId": "tt24226474",
+    "movieLanguages": ["Tamil", "Hindi", "Telugu", "Kannada", "Malayalam"],
+    "movieCountries": [
+      "Australia",
+      "Canada",
+      "France",
+      "Ireland",
+      "India",
+      "Kuwait",
+      "United States",
+      "United Kingdom",
+      "Japan"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMzA2ZTgxNzgtYjM3Ni00NTI1LWJiMjAtMWViNWUzNzIwYTgwXkEyXkFqcGdeQXVyMTMxODA4Njgx._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Comedy", "Drama"]
+  },
+  {
+    "movieTitle": "Narakasura",
+    "imdbMovieId": "tt15839792",
+    "movieLanguages": ["Tamil", "Telugu", "Hindi", "Malayalam", "Kannada"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BODFjNGZjOTYtM2VlOC00YTBmLWI5YTMtOTM0MmQxZTc0MmIyXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Comedy", "Family"]
+  },
+  {
+    "movieTitle": "Martin Luther King",
+    "imdbMovieId": "tt29228476",
+    "movieLanguages": ["Telugu", "Malayalam", "Tamil", "Hindi", "Kannada"],
+    "movieCountries": ["India", "United States"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNDQ4MzMwNmYtNWYyMC00NTZlLWJhYjgtMTJlNzU3Y2I5MWVjXkEyXkFqcGdeQXVyMzI4MzEwNQ@@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "12th Fail",
+    "imdbMovieId": "tt23849204",
+    "movieLanguages": ["Hindi", "Malayalam", "Tamil", "Telugu", "Kannada"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Australia",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BOTJlY2U2ZmYtMzU3Ny00ZDI3LWEwMDYtOWIxNzdhZDI5ZWRkXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UY281_CR12,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Biography", "Drama"]
+  },
+  {
+    "movieTitle": "Pulimada",
+    "imdbMovieId": "tt28337918",
+    "movieLanguages": ["Malayalam", "Hindi", "Telugu", "Kannada", "Tamil"],
+    "movieCountries": ["India", "United Arab Emirates"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BY2YwNzkyZTgtZTk2OS00MjIwLWEyM2ItZGJiZTI1NWZkZTE3XkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Comedy", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Ghost",
+    "imdbMovieId": "tt27125266",
+    "movieLanguages": ["Kannada", "Tamil", "Telugu", "Hindi", "Malayalam"],
+    "movieCountries": [
+      "India",
+      "Germany",
+      "Ireland",
+      "United Arab Emirates",
+      "United States",
+      "India"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZGJiYTY3ODUtZWEzYy00MWRiLTg2ODctZjk5OGVkMTlkZDg3XkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_QL75_UX190_CR0,28,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Thriller"]
+  },
+  {
+    "movieTitle": "Ganapath: Hero is Born",
+    "imdbMovieId": "tt13334578",
+    "movieLanguages": [
+      "Hindi",
+      "Kannada",
+      "Telugu",
+      "Malayalam",
+      "Tamil",
+      "Marathi"
+    ],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Australia",
+      "Germany",
+      "Finland",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Singapore",
+      "United States",
+      "South Africa",
+      "Kuwait",
+      "Saudi Arabia"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYTYzN2RiZDMtOWQ2YS00YmVkLTk3NmYtZWU4NTBkNWMwZGNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama", "Sci-Fi"]
+  },
+  {
+    "movieTitle": "Saptha Sagaradaache Ello - Side A",
+    "imdbMovieId": "tt11992424",
+    "movieLanguages": ["Kannada", "Telugu", "Tamil", "Hindi", "Malayalam"],
+    "movieCountries": [
+      "Finland",
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "United States",
+      "United Arab Emirates",
+      "India",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BM2E2ODFhYjgtN2QzYy00ZjlkLTgzZjgtNDkwODA2YWEwMDc3XkEyXkFqcGdeQXVyMTU0MDA4MDkz._V1_QL75_UY281_CR3,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama", "Romance"]
+  },
+  {
+    "movieTitle": "Dreadful Chapters",
+    "imdbMovieId": "tt21257310",
+    "movieLanguages": ["Malayalam", "Tamil", "Hindi", "Kannada", "Telugu"],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZDE0ZGZiZDItODUxOC00MjM0LWI2ZDYtMjU1NDdhMDA5NGE2XkEyXkFqcGdeQXVyNjgxNDU4MTQ@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Horror", "Thriller"]
+  },
+  {
+    "movieTitle": "King of Kotha",
+    "imdbMovieId": "tt15134398",
+    "movieLanguages": ["Hindi", "Telugu", "Tamil", "Kannada", "Malayalam"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Finland",
+      "Ireland",
+      "India",
+      "Singapore",
+      "France",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYzI3ZGEzM2EtNmU3ZC00YTE2LTg4ZDctMjcxNjliOTBlYjkyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Gadar 2",
+    "imdbMovieId": "tt15441054",
+    "movieLanguages": [
+      "Hindi",
+      "Punjabi",
+      "Kannada",
+      "Tamil",
+      "Telugu",
+      "Malayalam"
+    ],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Australia",
+      "Bulgaria",
+      "Bahrain",
+      "Canada",
+      "Germany",
+      "Denmark",
+      "Egypt",
+      "France",
+      "United Kingdom",
+      "Indonesia",
+      "Ireland",
+      "Israel",
+      "India",
+      "Iran",
+      "South Korea",
+      "Netherlands",
+      "New Zealand",
+      "Singapore",
+      "United States",
+      "South Africa"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYzU3ZjVjNTMtYzBlZi00MmIwLWFhMGEtYjljNjU1YTE5YmUwXkEyXkFqcGdeQXVyMTY1OTgwMDAx._V1_QL75_UX190_CR0,28,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "movieTitle": "Bholaa Shankar",
+    "imdbMovieId": "tt13131610",
+    "movieLanguages": ["Telugu", "Tamil", "Kannada", "Hindi", "Malayalam"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Norway",
+      "France",
+      "Ireland",
+      "India",
+      "Kuwait",
+      "Singapore",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYzNjMGYzMmEtYTkzYS00MGE3LThkMTEtYTM2MjM0ZTdjZmYxXkEyXkFqcGdeQXVyMTcyNDY1NDgw._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Jailer",
+    "imdbMovieId": "tt11663228",
+    "movieLanguages": ["Tamil", "Malayalam", "Hindi", "Telugu", "Kannada"],
+    "movieCountries": [
+      "United States",
+      "United Arab Emirates",
+      "Australia",
+      "Germany",
+      "France",
+      "United Kingdom",
+      "India",
+      "Kuwait",
+      "Norway",
+      "Singapore",
+      "Canada",
+      "Ireland",
+      "Poland",
+      "Japan"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTJmZmQ2OGUtZTg0NS00ZmYzLWJjOGItYmFkNGYwMDM0NTQxXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Comedy", "Crime"]
+  },
+  {
+    "movieTitle": "LILYTH",
+    "imdbMovieId": "tt29865751",
+    "movieLanguages": [
+      "Kannada",
+      "Telugu",
+      "Tamil",
+      "Hindi",
+      "English",
+      "Malayalam"
+    ],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [],
+    "movieGenres": ["Thriller"]
+  },
+  {
+    "movieTitle": "Miss Shetty Mr Polishetty",
+    "imdbMovieId": "tt15891388",
+    "movieLanguages": ["Hindi", "Tamil", "Telugu", "Kannada", "Malayalam"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "India",
+      "Singapore",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNmM0NjQ3YTItNzc1My00YWQ2LWFiNjUtNWM5YWU1ZmM5ZTU2XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX190_CR0,8,190,281_.jpg"
+    ],
+    "movieGenres": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "movieTitle": "JGM (JanaGanaMana)",
+    "imdbMovieId": "tt17511156",
+    "movieLanguages": ["Telugu", "Hindi", "Tamil", "Kannada", "Malayalam"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMzU4YzU3NGYtZDRlYi00YzhmLWFlMTktNzk4YzAyZDU3NTdjXkEyXkFqcGdeQXVyMTUwNDczNzE3._V1_QL75_UY281_CR3,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama"]
+  },
+  {
+    "movieTitle": "Bharateeyans",
+    "imdbMovieId": "tt22072116",
+    "movieLanguages": ["Telugu", "Hindi", "Malayalam", "Tamil", "Kannada"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTdhZTg4YjgtY2JkZC00ZTBiLTlhM2MtZDYyMDQ5YjNlZWE0XkEyXkFqcGdeQXVyOTQxNzY1NTE@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action"]
+  },
+  {
+    "movieTitle": "Salmon 3D",
+    "imdbMovieId": "tt12338956",
+    "movieLanguages": [
+      "Hindi",
+      "Tamil",
+      "Marathi",
+      "Malayalam",
+      "Telugu",
+      "Kannada",
+      "Bengali"
+    ],
+    "movieCountries": ["India", "Singapore"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BOTY0MWVkMTctMmYzYi00OGMzLTk2N2QtNTIzZGIxNGMyNGQ2XkEyXkFqcGdeQXVyMzMxMDUzNTk@._V1_QL75_UY281_CR20,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Romance", "Thriller"]
+  },
+  {
+    "movieTitle": "Spy",
+    "imdbMovieId": "tt15509266",
+    "movieLanguages": ["Telugu", "Kannada", "Hindi", "Tamil", "Malayalam"],
+    "movieCountries": [
+      "United States",
+      "United Arab Emirates",
+      "India",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYzY3MmJhZDQtNWMyNy00YzQyLWJhOWYtZjc5NWVkOTc0YmNmXkEyXkFqcGdeQXVyMTU0OTAzMDcw._V1_QL75_UY281_CR7,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Thriller"]
+  },
+  {
+    "movieTitle": "Adipurush",
+    "imdbMovieId": "tt12915716",
+    "movieLanguages": ["Hindi", "Telugu", "Tamil", "Malayalam", "Kannada"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Australia",
+      "Canada",
+      "Germany",
+      "Finland",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Kuwait",
+      "Russia",
+      "Singapore",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTIwZWI0Y2YtZGJhZC00MjU4LTliZTUtODVjZjk4Y2FlYzI1XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "movieTitle": "Pareshan",
+    "imdbMovieId": "tt20259046",
+    "movieLanguages": ["Telugu", "Tamil", "Hindi", "Kannada", "Malayalam"],
+    "movieCountries": ["India", "United States"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYjcwM2Q0MzAtMTY4Ni00NzYwLThlNWUtZGNhMmNhYTg4MmFhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UY281_CR5,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Comedy"]
+  },
+  {
+    "movieTitle": "Siren",
+    "imdbMovieId": "tt26627624",
+    "movieLanguages": ["Kannada", "Tamil", "Telugu", "Hindi", "Malayalam"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BOTZlOTcyZWQtMzNiMC00YzdjLTg1ZDAtMWE0ZjMyZDM0YmQxXkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_QL75_UX190_CR0,8,190,281_.jpg"
+    ],
+    "movieGenres": ["Crime", "Thriller"]
+  },
+  {
+    "movieTitle": "Soppana Sundari",
+    "imdbMovieId": "tt24485376",
+    "movieLanguages": ["Tamil", "Telugu", "Hindi", "Malayalam", "Kannada"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "Ireland",
+      "India",
+      "Singapore",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTAyMGJmODQtMmI5ZS00MjYzLTk0ZjMtZjkzMGRkY2UyMzQzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UY281_CR4,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Comedy", "Drama", "Thriller"]
+  },
+  {
+    "movieTitle": "Kabzaa",
+    "imdbMovieId": "tt11364772",
+    "movieLanguages": ["Kannada", "Hindi", "Tamil", "Telugu", "Malayalam"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Germany",
+      "Finland",
+      "France",
+      "Ireland",
+      "India",
+      "Singapore",
+      "United States",
+      "India"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZDFmNmE2OTYtYmUxOC00ZjE0LWE4ZWEtNzdiMjYxMjIwMzBhXkEyXkFqcGdeQXVyODA4MDA0Mjg@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Thriller"]
+  },
+  {
+    "movieTitle": "Juliet 2",
+    "imdbMovieId": "tt26337526",
+    "movieLanguages": ["Kannada", "Malayalam", "Tamil", "Hindi", "Telugu"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNjliNDJhMmQtMGI5ZC00NzAwLTk0NDMtMjU4MGQ1NzRhZDBiXkEyXkFqcGdeQXVyMTYxMjY3OTU3._V1_QL75_UY281_CR5,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Thriller"]
+  },
+  {
+    "movieTitle": "Thugs",
+    "imdbMovieId": "tt23951484",
+    "movieLanguages": ["Telugu", "Malayalam", "Kannada", "Hindi", "Tamil"],
+    "movieCountries": ["India", "Singapore"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BOTJiNWYyZWEtNTkwOS00MjgzLThmMjQtNGZhMjNjOGQ1ODhmXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_QL75_UY281_CR24,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Thriller"]
+  },
+  {
+    "movieTitle": "#Mute",
+    "imdbMovieId": "tt14781376",
+    "movieLanguages": ["Kannada", "Tamil", "Hindi", "Telugu", "Malayalam"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYTQ4ODdmMjEtYmI3Ni00NjgzLWE5MzEtNTQ5NjhkOTQ0NjMyXkEyXkFqcGdeQXVyMTYyNjk4NTU3._V1_QL75_UY281_CR22,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Thriller"]
+  },
+  {
+    "movieTitle": "Michael",
+    "imdbMovieId": "tt15309808",
+    "movieLanguages": ["Tamil", "Hindi", "Kannada", "Telugu", "Malayalam"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "India",
+      "Norway",
+      "Singapore",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYjlkY2E0MzYtOTk3My00N2JmLTlmZjktNmFlMGMyYWM1YjM3XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_QL75_UY281_CR31,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Veera Simha Reddy",
+    "imdbMovieId": "tt15387190",
+    "movieLanguages": ["Telugu", "Malayalam", "Tamil", "Hindi", "Kannada"],
+    "movieCountries": [
+      "United States",
+      "United Arab Emirates",
+      "France",
+      "India",
+      "Canada",
+      "Ireland",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZmI0MTEyOWMtYTgzMi00ZGU4LWJhNDQtOWY0NDAyMmQ2NmUyXkEyXkFqcGdeQXVyMTU4Mzg1OTU2._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama"]
+  },
+  {
+    "movieTitle": "Laththi",
+    "imdbMovieId": "tt15341044",
+    "movieLanguages": ["Tamil", "Hindi", "Telugu", "Malayalam", "Kannada"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "India",
+      "Singapore",
+      "United States",
+      "United Kingdom",
+      "Ireland"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYTgwMWFlYmQtMjkwZS00OTZiLThjNWItZGZlZjM5MDg0MjFmXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Sasanasabha",
+    "imdbMovieId": "tt21338378",
+    "movieLanguages": ["Malayalam", "Hindi", "Kannada", "Tamil", "Telugu"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMDNkYTg3MTktMWU2Zi00NDJiLWJmODktNmU1ZWM1NDUyOGU2XkEyXkFqcGdeQXVyMTU0ODU2OTI3._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "Godfather",
+    "imdbMovieId": "tt13130308",
+    "movieLanguages": ["Tamil", "Kannada", "Malayalam", "Telugu", "Hindi"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "Ireland",
+      "India",
+      "Russia",
+      "Singapore",
+      "United States",
+      "Luxembourg"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNjQwMmYzY2QtZTJmNC00N2RhLTlhYjYtYWM0MTBlY2YxNmFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX190_CR0,3,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Liger",
+    "imdbMovieId": "tt4435072",
+    "movieLanguages": ["Hindi", "Tamil", "Telugu", "Malayalam", "Kannada"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Australia",
+      "Germany",
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Singapore",
+      "Canada",
+      "Finland",
+      "Indonesia"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BOGFjYjFhMGUtZDE3Mi00OGE0LWI4YjUtZmRhZGEyYzliMWJmXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_QL75_UX190_CR0,28,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama", "Romance"]
+  },
+  {
+    "movieTitle": "Checkmate: The Game Never Ends",
+    "imdbMovieId": "tt17163030",
+    "movieLanguages": ["Telugu", "Malayalam", "Hindi", "Kannada", "Tamil"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMGQ3YzhkYjktZWE4Yi00MzY4LThjMWQtZWJlNzIxMDU0ZWI2XkEyXkFqcGdeQXVyMTQ4NDQ0MTU2._V1_QL75_UX190_CR0,6,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Romance"]
+  },
+  {
+    "movieTitle": "Lift 8055",
+    "imdbMovieId": "tt19246412",
+    "movieLanguages": ["Hindi", "Kannada", "Tamil", "Malayalam", "Telugu"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZDAzOWFmMTktMTkxMC00ZTBlLWIyY2EtMjZlOGYxZThkYWYyXkEyXkFqcGdeQXVyMTI0NzQ1MzM4._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action"]
+  },
+  {
+    "movieTitle": "Escape",
+    "imdbMovieId": "tt15681172",
+    "movieLanguages": ["Malayalam", "Hindi", "Tamil", "Kannada", "Telugu"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMjM2ZWRjYWYtNGVjMS00N2IxLTg4NDItZGU1YzMzNmNiN2Q4XkEyXkFqcGdeQXVyNzczNjUxMTg@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Thriller"]
+  },
+  {
+    "movieTitle": "Valatty",
+    "imdbMovieId": "tt12792234",
+    "movieLanguages": ["Malayalam", "Tamil", "Kannada", "Telugu", "Hindi"],
+    "movieCountries": ["India", "United Arab Emirates", "Kuwait"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BN2E5NzgwMTktNjY1Mi00OWM2LTgwYzEtMTk1Y2MyYmY5Zjg3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Adventure", "Comedy", "Romance"]
+  },
+  {
+    "movieTitle": "Pichaikkaran 2",
+    "imdbMovieId": "tt12782448",
+    "movieLanguages": ["Tamil", "Telugu", "Kannada", "Malayalam", "Hindi"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "Ireland",
+      "India",
+      "Singapore",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZWIyNzVlYjYtZjgxOC00NmFhLWE1OWMtMjFmZDVhMmE1MGI4XkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_QL75_UY281_CR8,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama", "Sci-Fi"]
+  },
+  {
+    "movieTitle": "Por Thozhil",
+    "imdbMovieId": "tt27542289",
+    "movieLanguages": ["Tamil", "Hindi", "Kannada", "Telugu", "Malayalam"],
+    "movieCountries": [
+      "Ireland",
+      "India",
+      "United States",
+      "United Arab Emirates",
+      "United Kingdom",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BY2U5ZjQ2MGMtNDI5ZS00NzJjLTg5YTAtMTVhYWQ4MGE4NmQxXkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_QL75_UY281_CR6,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Thriller"]
+  },
+  {
+    "movieTitle": "Pushpa: The Rise - Part 1",
+    "imdbMovieId": "tt9389998",
+    "movieLanguages": ["Hindi", "Tamil", "Malayalam", "Kannada", "Telugu"],
+    "movieCountries": [
+      "Ireland",
+      "United Arab Emirates",
+      "Finland",
+      "France",
+      "United Kingdom",
+      "Indonesia",
+      "India",
+      "Singapore",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMDZmZDkyZjUtYzI0MS00NWQ2LWIwMzEtOTczZjE3YWQ2OGU1XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "#Home",
+    "imdbMovieId": "tt10534500",
+    "movieLanguages": ["Malayalam", "Telugu", "Kannada", "Tamil", "Hindi"],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNWU1ZmNlYTctYmY1My00ZDlmLTk3M2EtZDcxY2E1ZGU0N2YzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama", "Family"]
+  },
+  {
+    "movieTitle": "Passion",
+    "imdbMovieId": "tt15079718",
+    "movieLanguages": [
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Kannada",
+      "Malayalam",
+      "Bengali",
+      "Bhojpuri"
+    ],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNjM2MjEyOTUtN2ZlYS00MTZhLWI4YTQtMTBhNTdmYTZiZDg2XkEyXkFqcGdeQXVyODYxODQyMjU@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Crime", "Thriller"]
+  },
+  {
+    "movieTitle": "Cold Case",
+    "imdbMovieId": "tt13391696",
+    "movieLanguages": ["Malayalam", "Hindi", "Tamil", "Telugu", "Kannada"],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNDcyMWJjMmUtMjBjNS00MjU5LThkMGQtN2Q2MzUxZmYzMjA2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Horror", "Mystery", "Thriller"]
+  },
+  {
+    "movieTitle": "Shakeela",
+    "imdbMovieId": "tt9390240",
+    "movieLanguages": ["Hindi", "Telugu", "Malayalam", "Tamil", "Kannada"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNWM4NjhjYmQtMmY3OC00YjQ4LThlYjgtNDI0MmU3YTI2M2RhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR12,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Biography", "Drama"]
+  },
+  {
+    "movieTitle": "Bheeshma",
+    "imdbMovieId": "tt11199356",
+    "movieLanguages": ["Telugu", "Hindi", "Tamil", "Malayalam", "Kannada"],
+    "movieCountries": [
+      "Australia",
+      "Canada",
+      "United Kingdom",
+      "India",
+      "New Zealand",
+      "United States"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZTU2MDVlMjMtNGNkMC00ZmIzLTg4YjYtZTk0NmE5NjJhODZhXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_QL75_UX190_CR0,11,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Comedy", "Romance"]
+  },
+  {
+    "movieTitle": "Pailwaan",
+    "imdbMovieId": "tt7317482",
+    "movieLanguages": ["Kannada", "Hindi", "Malayalam", "Telugu", "Tamil"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Australia",
+      "Bahrain",
+      "Canada",
+      "India",
+      "Kenya",
+      "Kuwait",
+      "Sri Lanka",
+      "Malaysia",
+      "Oman",
+      "Qatar",
+      "Singapore",
+      "Tanzania",
+      "Uganda",
+      "United States",
+      "United Kingdom",
+      "Ireland",
+      "Denmark",
+      "France",
+      "Germany",
+      "Sweden",
+      "Belgium",
+      "Netherlands"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNTc3YTRjMjItOTZjOC00NmQ2LWEwMzYtOWE1NTk0NGQ1YTFmXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama", "Sport"]
+  },
+  {
+    "movieTitle": "Muppathu Vellikkasu",
+    "imdbMovieId": "tt8841756",
+    "movieLanguages": ["Malayalam", "Telugu", "Kannada", "Hindi", "Tamil"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMDYxOWIyZDAtYTk3YS00ZWRhLWIzOTEtZDg5MjBmOGVkMDFjXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_QL75_UY281_CR5,0,190,281_.jpg"
+    ],
+    "movieGenres": ["History"]
+  },
+  {
+    "movieTitle": "Mahanadhi",
+    "imdbMovieId": "tt2486260",
+    "movieLanguages": ["Kannada", "Telugu", "Tamil", "Malayalam", "Hindi"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNGE3YTQxMDgtZGMxYy00ODNmLTg4YzctYmVkODBmNWUxYjhhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+    ],
+    "movieGenres": ["Drama", "Family", "History"]
+  },
+  {
+    "movieTitle": "Chaarulatha",
+    "imdbMovieId": "tt3144084",
+    "movieLanguages": ["Kannada", "Tamil", "Telugu", "Malayalam", "Hindi"],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNjA3MDY3MzI3MF5BMl5BanBnXkFtZTgwMzUxMDA3MjE@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Horror", "Thriller"]
+  },
+  {
+    "movieTitle": "Kannadadda Kiran Bedi",
+    "imdbMovieId": "tt14148330",
+    "movieLanguages": ["Kannada", "Hindi", "Tamil", "Telugu", "Malayalam"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BODA0MmNhZGEtYWQ0MS00ZGMyLTlkMjctNDgyMDE0MzljMDJjXkEyXkFqcGdeQXVyOTY3OTAzOTQ@._V1_QL75_UY281_CR9,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "Thriyathri",
+    "imdbMovieId": "tt0271827",
+    "movieLanguages": [
+      "Kannada",
+      "Tamil",
+      "Telugu",
+      "Bengali",
+      "Hindi",
+      "Malayalam"
+    ],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZjA3ZmVjOGYtMzY4NS00NzA0LTg3Y2EtYTJiM2ZhNWVkZDgzXkEyXkFqcGdeQXVyNTc4NzgzNDg@._V1_QL75_UY281_CR81,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "Kannur Squad",
+    "imdbMovieId": "tt25274786",
+    "movieLanguages": ["Malayalam", "Kannada", "Hindi", "Telugu", "Tamil"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Bahrain",
+      "Canada",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United States",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNTMxZTQ1ZmEtOWM3Ny00MGQzLTgyMjgtZGMzNDM0YjVhZjMzXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "movieTitle": "Pretha",
+    "imdbMovieId": "tt28508299",
+    "movieLanguages": ["Kannada", "Telugu", "Malayalam", "Hindi", "Tamil"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZTY4YTBhYTgtMmQxYy00OGQyLThlMjktZDQ4ODZiYjY3N2Y1XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": []
+  },
+  {
+    "movieTitle": "Bramayugam",
+    "imdbMovieId": "tt27431598",
+    "movieLanguages": ["Malayalam", "Kannada", "Hindi", "Tamil", "Telugu"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "Australia",
+      "France",
+      "United Kingdom",
+      "India",
+      "Kuwait",
+      "New Zealand",
+      "Oman",
+      "Qatar",
+      "Saudi Arabia",
+      "United States",
+      "Ireland",
+      "India"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMTI4NmMwYWUtMWU0ZC00N2ZmLTgzOWYtODNmMDdiYTFjMjBlXkEyXkFqcGdeQXVyMzI4MzEwNQ@@._V1_QL75_UX190_CR0,28,190,281_.jpg"
+    ],
+    "movieGenres": ["Horror", "Thriller"]
+  },
+  {
+    "movieTitle": "Lal Salaam",
+    "imdbMovieId": "tt23461428",
+    "movieLanguages": ["Tamil", "Hindi", "Telugu", "Kannada", "Malayalam"],
+    "movieCountries": ["France", "Ireland", "India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNzMyYzg1NDUtYmQ5Yi00ZmZjLWI1YTUtODdlM2FlZjczZTkxXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX190_CR0,8,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama", "Sport"]
+  },
+  {
+    "movieTitle": "Ae Watan Mere Watan",
+    "imdbMovieId": "tt19864942",
+    "movieLanguages": ["Hindi", "Malayalam", "Tamil", "Telugu", "Kannada"],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMzQ5MWNjNDItMDQzMC00ODQzLTg4YmItZWZmYjFhM2E5YzRmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Biography", "Drama", "History"]
+  },
+  {
+    "movieTitle": "Sathur",
+    "imdbMovieId": "tt24337968",
+    "movieLanguages": ["English", "Kannada", "Malayalam", "Tamil", "Telugu"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMjBmNWUxNjYtOTVkMi00OWFmLTg1ZDMtMjY5YWVjZGNkNzk0XkEyXkFqcGdeQXVyMTYwNjAzOTc4._V1_QL75_UY281_CR11,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Sci-Fi", "Thriller"]
+  },
+  {
+    "movieTitle": "Dhira",
+    "imdbMovieId": "tt13449672",
+    "movieLanguages": [
+      "Tamil",
+      "Bengali",
+      "Malayalam",
+      "Kannada",
+      "Punjabi",
+      "Oriya",
+      "Bhojpuri",
+      "Gujarati",
+      "English",
+      "Marathi",
+      "Telugu"
+    ],
+    "movieCountries": [],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNGEzODU2ZDItMTFkNi00ZGVjLWFlOTktYzUzNWFmZmM3YWFlXkEyXkFqcGdeQXVyMTI2MDYzMjc5._V1_QL75_UY281_CR11,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Animation"]
+  },
+  {
+    "movieTitle": "Mission: Chapter 1",
+    "imdbMovieId": "tt23752056",
+    "movieLanguages": ["Tamil", "Telugu", "Malayalam", "Kannada"],
+    "movieCountries": ["France", "India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYmQzZjgxYTAtZWQ2OS00MGVjLTgyZWYtNWE0ZWUwMzE1ODUxXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Thriller"]
+  },
+  {
+    "movieTitle": "Kattil",
+    "imdbMovieId": "tt22006694",
+    "movieLanguages": ["Tamil", "Malayalam", "Kannada", "Telugu"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZDJlZDA1ODktMTQ3My00ZDdkLWJhOGEtYjJjYThiNjRiZmY4XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UY281_CR19,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "Conjuring Kannappan",
+    "imdbMovieId": "tt29230279",
+    "movieLanguages": ["Kannada", "Malayalam", "Telugu", "Tamil"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYjIyNDZjOTEtYjdiMS00MDYyLTg2NTUtMWE2Nzk2YWVlMjJjXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    ],
+    "movieGenres": ["Horror"]
+  },
+  {
+    "movieTitle": "Atharva",
+    "imdbMovieId": "tt27191600",
+    "movieLanguages": ["Telugu", "Tamil", "Malayalam", "Kannada"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZWI1OWExZTAtZGIxMS00YTZkLTg4ZjctMzY4MjYyYzgyNTRjXkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_QL75_UY281_CR5,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "movieTitle": "Sapta Sagaradaache Ello: Side B",
+    "imdbMovieId": "tt28857146",
+    "movieLanguages": ["Kannada", "Telugu", "Tamil", "Malayalam"],
+    "movieCountries": ["Germany", "Ireland", "India", "United States"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYzQ4MjUwMjItYjYxOC00NzU1LTkxMDYtZGJlYmMyYzI5NzIzXkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_QL75_UY281_CR3,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama", "Romance"]
+  },
+  {
+    "movieTitle": "My Name Is Shruthi",
+    "imdbMovieId": "tt23635174",
+    "movieLanguages": ["Telugu", "Malayalam", "Kannada", "Tamil"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMDg2YzkwYzctMDYyZi00NTdhLTg5OTQtNGY5NjVhYjUzMzM0XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UY281_CR19,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Thriller"]
+  },
+  {
+    "movieTitle": "Irugapatru",
+    "imdbMovieId": "tt16103606",
+    "movieLanguages": ["Tamil", "Malayalam", "Telugu", "Kannada"],
+    "movieCountries": ["India", "United Arab Emirates"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZTBmNmM4ZTUtZTY4Ni00YzlhLWE0MDQtZGE0OWRlM2IwNzgyXkEyXkFqcGdeQXVyMTY0MDk0NjE3._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama"]
+  },
+  {
+    "movieTitle": "Skanda",
+    "imdbMovieId": "tt27328206",
+    "movieLanguages": ["Telugu", "Malayalam", "Tamil", "Kannada"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "India",
+      "Kuwait",
+      "United States",
+      "Ireland",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BMWZjOWViOGQtMTg1Yy00OGFmLTgyZmEtMWQwM2U4MTBhZTc1XkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_QL75_UY281_CR5,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama", "Romance"]
+  },
+  {
+    "movieTitle": "Mark Antony",
+    "imdbMovieId": "tt23052532",
+    "movieLanguages": ["Tamil", "Telugu", "Malayalam", "Kannada"],
+    "movieCountries": [
+      "United Arab Emirates",
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Singapore",
+      "United States",
+      "France"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNmYyNjM0NmQtNzdhZi00ZDYxLThkMGItMTMwMzkyMThiYzQ0XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UY281_CR1,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Comedy", "Drama"]
+  },
+  {
+    "movieTitle": "Pizza 3: The Mummy",
+    "imdbMovieId": "tt13773770",
+    "movieLanguages": ["Tamil", "Malayalam", "Kannada", "Telugu"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BOTljYjRlN2UtOThmMC00MzgzLWE5ZWMtM2JkODFkYTE1ZjkwXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_QL75_UX190_CR0,8,190,281_.jpg"
+    ],
+    "movieGenres": ["Drama", "Horror", "Thriller"]
+  },
+  {
+    "movieTitle": "Kirkkan",
+    "imdbMovieId": "tt27598854",
+    "movieLanguages": ["Malayalam", "Tamil", "Kannada", "Telugu"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNDNkNmNhZDctZTgwMC00YmI2LWE5OGEtYzE1YTAwZGFiODU4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY281_CR19,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "movieTitle": "Maamannan",
+    "imdbMovieId": "tt20242416",
+    "movieLanguages": ["Tamil", "Telugu", "Kannada", "Malayalam"],
+    "movieCountries": [
+      "United States",
+      "United Arab Emirates",
+      "France",
+      "United Kingdom",
+      "Ireland",
+      "India",
+      "Singapore"
+    ],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BNjFmMTI3MTUtMTdmNS00ODI0LWEwM2UtMDVjOTAxZmFhODg5XkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_QL75_UY281_CR16,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Action", "Drama", "Thriller"]
+  },
+  {
+    "movieTitle": "Asvins",
+    "imdbMovieId": "tt27080643",
+    "movieLanguages": ["Tamil", "Telugu", "Kannada", "Malayalam"],
+    "movieCountries": ["India"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BZDk3NzU5ODMtZDhhMi00OWMwLWFkMzQtNzFmMjIwMGIxNzMwXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UY281_CR15,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Horror", "Thriller"]
+  },
+  {
+    "movieTitle": "Thandatti",
+    "imdbMovieId": "tt26733340",
+    "movieLanguages": ["Tamil", "Kannada", "Telugu", "Malayalam"],
+    "movieCountries": ["India", "United Arab Emirates"],
+    "movieMainPhotos": [
+      "https://m.media-amazon.com/images/M/MV5BYjg3MjdiY2ItMTdjYy00MGZkLWFhOTgtNWVhYzhhMzdlNTU4XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UY281_CR4,0,190,281_.jpg"
+    ],
+    "movieGenres": ["Comedy", "Thriller"]
+  }
+]
