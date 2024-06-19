@@ -3,6 +3,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
 import MainPage from "./Layout/MainPage";
 import Home from "./Page/Home/Home";
+import AllMovie from "./Page/Movies/AllMovie";
 
 const router = createBrowserRouter([
   {
@@ -12,6 +13,10 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />,
+      },
+      {
+        path: "/allMovie",
+        element: <AllMovie />,
       },
     ],
   },

@@ -1,4 +1,3 @@
-import movieData from "../../../../public/data/movies.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 // Import Swiper styles
@@ -58,24 +57,6 @@ const Movie = () => {
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
-  //
-  //
-  useEffect(() => {
-    // Attach event listener to links
-    const links = document.querySelectorAll("a");
-    links.forEach((link) => {
-      link.addEventListener("click", scrollToTop);
-    });
-    return () => {
-      links.forEach((link) => {
-        link.removeEventListener("click", scrollToTop);
-      });
-    };
-  }, []);
-  const scrollToTop = () => {
-    window.scrollTo(0, 0);
-  };
-  //
 
   return (
     <div className=" md:px-32">
@@ -94,7 +75,7 @@ const Movie = () => {
             }}
             className="mySwiper"
           >
-            {movies.slice(0, 9).map((movie) => (
+            {movies.slice(0, 10).map((movie) => (
               <SwiperSlide key={movie?.id}>
                 <div className="space-y-2 hover:cursor-pointer">
                   <img
@@ -114,7 +95,7 @@ const Movie = () => {
           </Swiper>
           <div className="flex justify-center items-center">
             <Link
-              
+              to="/allMovie"
               className="capitalize bg-gradient-to-r from-[#06286e] to-[#800030] text-white font-bold p-2 rounded-lg"
             >
               explore more movies
