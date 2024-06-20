@@ -1,10 +1,9 @@
-import { useContext } from "react";
 import { Link } from "react-router-dom";
-import { AuthContext } from "../../../Provider/AuthProvider";
 import toast from "react-hot-toast";
+import { useAuth } from "../../../custom hooks/useAuth";
 
 const NavBar = () => {
-  const { googleLogin, user, userSignOut } = useContext(AuthContext);
+  const { googleLogin, user, userSignOut } = useAuth();
 
   //google login
   const handleGoogleLogin = () => {
@@ -47,6 +46,7 @@ const NavBar = () => {
               className="menu menu-sm dropdown-content mt-3 z-[1] shadow bg-base-100 rounded-box w-52 p-5 space-y-2 "
             >
               <li className="justify-between">{user?.displayName}</li>
+              <li>{user?.email}</li>
               <li>{user?.email}</li>
               <button
                 onClick={userSignOut}

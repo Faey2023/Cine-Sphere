@@ -1,15 +1,18 @@
-import { useContext, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { FaRegHeart } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa6";
-import { AuthContext } from "../../Provider/AuthProvider";
 import toast from "react-hot-toast";
 import AddReview from "../../components/Review/AddReview";
+import { useAuth } from "../../custom hooks/useAuth";
+import Reviews from "../../components/Review/Reviews";
+import { Rating } from "@smastrom/react-rating";
+import "@smastrom/react-rating/style.css";
 
 const MovieDetail = () => {
   const [movie, setMovie] = useState([]);
   const { id } = useParams();
-  const { user } = useContext(AuthContext);
+  const { user } = useAuth();
   const [addFav, setAddFav] = useState([]);
 
   useEffect(() => {
@@ -20,15 +23,8 @@ const MovieDetail = () => {
       .then((data) => setMovie(data));
   }, [id]);
 
-  const {
-    backdrop_path,
-    overview,
-    popularity,
-    poster_path,
-    release_date,
-    title,
-    vote_average,
-  } = movie || {};
+  const { backdrop_path, overview, poster_path, release_date, title } =
+    movie || {};
 
   const handleAddFav = () => {
     if (!user) {
@@ -77,12 +73,13 @@ const MovieDetail = () => {
           </div>
         </div>
       </div>
-      <div className="max-w-screen-xl mx-auto my-10 flex flex-col md:flex-row gap-10">
+
+      <div className="max-w-screen-xl mx-auto my-10 flex flex-col justify-center md:flex-row gap-10">
         <div className="relative w-1/3">
           <img
             src={`https://image.tmdb.org/t/p/w500/${poster_path}`}
             alt={`image of ${title}`}
-            className=" w-80 h-full"
+            className=" w-full h-full"
           />
           {addFav ? (
             <FaHeart
@@ -96,8 +93,9 @@ const MovieDetail = () => {
             />
           )}
         </div>
-        <AddReview />
+        <AddReview movie={movie} />
       </div>
+      <Reviews movie={movie} />
     </>
   );
 };
