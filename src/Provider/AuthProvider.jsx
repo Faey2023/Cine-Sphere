@@ -28,10 +28,10 @@ const AuthProvider = ({ children }) => {
     return signOut(auth)
       .then((res) => {
         toast.success("Logged Out Successfully!!!");
-        console.log(res);
+        //console.log(res);
       })
       .catch((err) => {
-        console.log(err.code);
+        // console.log(err.code);
       });
   };
   //auth state change

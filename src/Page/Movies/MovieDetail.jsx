@@ -1,30 +1,47 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { FaRegHeart } from "react-icons/fa";
-import { FaHeart } from "react-icons/fa6";
+import { FaRegHeart, FaHeart } from "react-icons/fa";
 import toast from "react-hot-toast";
 import AddReview from "../../components/Review/AddReview";
 import { useAuth } from "../../custom hooks/useAuth";
 import Reviews from "../../components/Review/Reviews";
-import { Rating } from "@smastrom/react-rating";
-import "@smastrom/react-rating/style.css";
 
 const MovieDetail = () => {
-  const [movie, setMovie] = useState([]);
+  const [movie, setMovie] = useState(null);
   const { id } = useParams();
   const { user } = useAuth();
-  const [addFav, setAddFav] = useState([]);
+  const [isFavorite, setIsFavorite] = useState(false);
 
   useEffect(() => {
+    fetchMovieDetails();
+  }, [id]);
+
+  useEffect(() => {
+    if (user) {
+      checkFavorite();
+    }
+  }, [user, movie]); // Also watch for 'movie' changes to update favorite status
+
+  const fetchMovieDetails = () => {
     fetch(
       `https://api.themoviedb.org/3/movie/${id}?api_key=995ef3bcfa844028fbb3fca227f46249`
     )
       .then((res) => res.json())
-      .then((data) => setMovie(data));
-  }, [id]);
+      .then((data) => {
+        setMovie(data);
+        checkFavorite(); // Check favorite status after fetching movie details
+      });
+  };
 
-  const { backdrop_path, overview, poster_path, release_date, title } =
-    movie || {};
+  const checkFavorite = () => {
+    if (!user) {
+      setIsFavorite(false);
+      return;
+    }
+    const storedFavorites = JSON.parse(localStorage.getItem(user.uid)) || [];
+    const isFav = storedFavorites.some((fav) => fav.id === movie?.id);
+    setIsFavorite(isFav);
+  };
 
   const handleAddFav = () => {
     if (!user) {
@@ -35,7 +52,7 @@ const MovieDetail = () => {
     const storedFavorites = JSON.parse(localStorage.getItem(user.uid)) || [];
     let updatedFavorites;
 
-    if (addFav) {
+    if (isFavorite) {
       updatedFavorites = storedFavorites.filter((fav) => fav.id !== movie.id);
       toast.success("Removed from favorites");
     } else {
@@ -44,8 +61,14 @@ const MovieDetail = () => {
     }
 
     localStorage.setItem(user.uid, JSON.stringify(updatedFavorites));
-    setAddFav(!addFav);
+    setIsFavorite(!isFavorite);
   };
+
+  if (!movie) {
+    return <div>Loading...</div>;
+  }
+
+  const { backdrop_path, overview, poster_path, release_date, title } = movie;
 
   return (
     <>
@@ -81,7 +104,7 @@ const MovieDetail = () => {
             alt={`image of ${title}`}
             className=" w-full h-full"
           />
-          {addFav ? (
+          {isFavorite ? (
             <FaHeart
               className="absolute top-3 left-3 text-red-700 w-7 h-7 cursor-pointer"
               onClick={handleAddFav}

@@ -6,6 +6,7 @@ import Home from "./Page/Home/Home";
 import AllMovie from "./Page/Movies/AllMovie";
 import MovieDetail from "./Page/Movies/MovieDetail";
 import AuthProvider from "./Provider/AuthProvider";
+import Favorites from "./Page/Favorites/Favorites";
 
 const router = createBrowserRouter([
   {
@@ -23,6 +24,10 @@ const router = createBrowserRouter([
       {
         path: "/movie/:id",
         element: <MovieDetail />,
+      },
+      {
+        path: "/fav",
+        element: <Favorites />,
       },
     ],
   },

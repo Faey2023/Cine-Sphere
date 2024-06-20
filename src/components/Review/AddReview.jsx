@@ -24,11 +24,11 @@ const AddReview = ({ movie }) => {
       localStorage.setItem("reviews", JSON.stringify(updatedReviews));
       setReviews(updatedReviews); 
       toast.success("Review Added Successfully!!!");
-      console.log(updatedReviews); 
+      //console.log(updatedReviews); 
       reset(); 
     } else {
       toast.error("Please log in to submit a review.");
-      console.log("Please log in to submit a review.");
+     // console.log("Please log in to submit a review.");
     }
   };
 
