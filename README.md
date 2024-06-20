@@ -14,7 +14,7 @@ https://cine-sphere.vercel.app
 2. **Navigate to the project directory:**
 
    ```bash
-   cd ui-fry
+   cd cine-sphere
    ```
 
 3. **Install dependencies:**
@@ -27,3 +27,10 @@ https://cine-sphere.vercel.app
    ```bash
    npm run dev
    ```
+
+
+# Functionalities
+- Implemented TMDB Api for fetching movie data.
+- Search functionality
+- Google SignUp
+- Favorite / review functionality
